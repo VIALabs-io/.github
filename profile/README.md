@@ -20,7 +20,7 @@ Discover how our technology is reshaping blockchain interactions:
 - **Efficient Development**: Our development services streamline your project across multiple blockchains.
 
 ## Get Involved
-Join our community of innovators and pioneers as we build a connected blockchain future. Start building your cross-chain products today, and reach out to us for collaborations and partnerships at [partner@VIALabs.io]. Follow our [Documentation](https://docs.VIALabs.io) for detailed guides and insights.
+Join our community of innovators and pioneers as we build a connected blockchain future. Start building your cross-chain products today, and reach out to us for collaborations and partnerships at [partner@VIALabs.io]. Follow our [Documentation](https://developers.viaLabs.io) for detailed guides and insights.
 
 ## About Us
 At VIA Labs, we believe that innovation and collaboration are key to shaping the future of blockchain technology. With a team of experienced experts and developers, we are dedicated to empowering the next generation of blockchain applications.
