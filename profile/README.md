@@ -14,7 +14,7 @@ Our protocol enables secure and general message passing, allowing decentralized 
 ### Development Tools
 - **NPM Package**: Our npm package `@vialabs-io/contracts` includes the `MessageClient` class, which simplifies contract to contract cross chain data transfers.
 - **Data Stream Client**: Subscribe to realtime notification of message traffic with `@vialabs-io/data-stream` package. 
-- **Hello-* Examples**: 
+- **Hello- Examples**: Example start repositories for cross chain ERC20, ERC721, and more. 
 
 ## Building with VIA Labs
 Discover how our technology is reshaping blockchain interactions:
