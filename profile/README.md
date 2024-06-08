@@ -10,9 +10,11 @@ We envision a future where decentralized applications can operate effortlessly a
 ## Key Technologies
 ### VIA Labs Interoperability Protocol
 Our protocol enables secure and general message passing, allowing decentralized applications to communicate across various blockchains. We also leverage a decentralized network of validators to ensure transaction integrity and provide multi-layer consensus and rewards for network participants.
+
 ### Development Tools
-- **AnyToAny**: Our platform enables instant cross-chain swaps, facilitating seamless token exchanges between different blockchains.
-- **Developer-Friendly Tools**: Our npm package, including the `MessageClient` class, simplifies the integration of cross-chain features into blockchain projects.
+- **NPM Package**: Our npm package `@vialabs-io/contracts` includes the `MessageClient` class, which simplifies contract to contract cross chain data transfers.
+- **Data Stream Client**: Subscribe to realtime notification of message traffic with `@vialabs-io/data-stream` package. 
+- **Hello-* Examples**: 
 
 ## Building with VIA Labs
 Discover how our technology is reshaping blockchain interactions:
@@ -20,7 +22,7 @@ Discover how our technology is reshaping blockchain interactions:
 - **Efficient Development**: Our development services streamline your project across multiple blockchains.
 
 ## Get Involved
-Join our community of innovators and pioneers as we build a connected blockchain future. Start building your cross-chain products today, and reach out to us for collaborations and partnerships at [partner@VIALabs.io]. Follow our [Developer Documentation](https://developer.viaLabs.io) for detailed guides and insights.
+Join our community of innovators and pioneers as we build a connected blockchain future. Start building your cross-chain products today, and reach out to us for collaborations and partnerships at [hello@vialabs.io]. Follow our [Developer Documentation](https://developer.viaLabs.io) for detailed guides and insights.
 
 ## About Us
 At VIA Labs, we believe that innovation and collaboration are key to shaping the future of blockchain technology. With a team of experienced experts and developers, we are dedicated to empowering the next generation of blockchain applications.
