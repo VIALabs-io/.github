@@ -5,7 +5,12 @@
     <img src="https://raw.githubusercontent.com/VIALabs-io/.github/main/profile/logo-black.svg" alt="VIA Labs" width="400">
   </picture>
   
-  <h1><span style="color:#FF00FF">// </span>CROSS-CHAIN COMMUNICATION</h1>
+  <h1>
+    <svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+      <text x="0" y="25" font-family="Arial, sans-serif" font-size="25" font-weight="bold" fill="#FF00FF">//</text>
+    </svg>
+    CROSS-CHAIN COMMUNICATION
+  </h1>
   
   <p>
     <a href="https://github.com/VIALabs-io"><img src="https://img.shields.io/badge/130+-NETWORKS-00E5E5?style=for-the-badge" alt="130+ Networks"></a>
@@ -13,8 +18,28 @@
     <a href="https://discord.gg/vialabs"><img src="https://img.shields.io/badge/Discord-Join-00E5E5?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   </p>
   
-  <h3>The future of Web3 is <span style="color:#00E5E5">unified</span> and <span style="color:#FF00FF">borderless</span>.</h3>
-  <h3>We enable true <span style="color:#FF00FF">cross-chain</span> <span style="color:#00E5E5">innovation</span> and private <span style="color:#00E5E5">off-chain</span> to <span style="color:#FF00FF">on-chain</span> connectivity.</h3>
+  <h3>The future of Web3 is 
+    <svg width="70" height="25" viewBox="0 0 70 25" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+      <text x="0" y="18" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#00E5E5">unified</text>
+    </svg> and 
+    <svg width="90" height="25" viewBox="0 0 90 25" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+      <text x="0" y="18" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FF00FF">borderless</text>
+    </svg>
+  </h3>
+  <h3>We enable true 
+    <svg width="110" height="25" viewBox="0 0 110 25" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+      <text x="0" y="18" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FF00FF">cross-chain</text>
+    </svg> 
+    <svg width="90" height="25" viewBox="0 0 90 25" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+      <text x="0" y="18" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#00E5E5">innovation</text>
+    </svg> and private 
+    <svg width="80" height="25" viewBox="0 0 80 25" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+      <text x="0" y="18" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#00E5E5">off-chain</text>
+    </svg> to 
+    <svg width="80" height="25" viewBox="0 0 80 25" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+      <text x="0" y="18" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FF00FF">on-chain</text>
+    </svg> connectivity
+  </h3>
 </div>
 
 <br>
@@ -24,7 +49,9 @@
 <br>
 
 
-### <span style="color:#00E5E5">//</span> Cross-Chain Native Tokens
+### <svg width="25" height="25" viewBox="0 0 25 25" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <text x="0" y="18" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#00E5E5">//</text>
+</svg> Cross-Chain Native Tokens
 
 <div style="border-left: 3px solid #00E5E5; padding-left: 15px;">
 
@@ -47,7 +74,9 @@ function _processMessage(uint _sourceChainId, uint, bytes calldata _data) intern
 ```
 </div>
 
-### <span style="color:#FF00FF">//</span> Cross-Chain NFTs
+### <svg width="25" height="25" viewBox="0 0 25 25" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <text x="0" y="18" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FF00FF">//</text>
+</svg> Cross-Chain NFTs
 
 <div style="border-left: 3px solid #FF00FF; padding-left: 15px;">
 
@@ -77,7 +106,9 @@ function _processMessage(uint _sourceChainId, uint, bytes calldata _data) intern
 ```
 </div>
 
-### <span style="color:#00E5E5">//</span> Private Oracles
+### <svg width="25" height="25" viewBox="0 0 25 25" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <text x="0" y="18" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#00E5E5">//</text>
+</svg> Private Oracles
 
 <div style="border-left: 3px solid #00E5E5; padding-left: 15px;">
 
@@ -210,7 +241,7 @@ node scripts/deploy.js
 - [Developer Documentation](https://developer.vialabs.io)
 - [GitHub Repositories](https://github.com/VIALabs-io)
 - [Discord Community](https://discord.gg/vialabs)
-- [Twitter](https://twitter.com/VIALabs_io)
+- [Twitter](https://x.com/VIA_Labs)
 
 <br>
 
