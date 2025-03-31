@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo-white.svg" width="400">
-    <source media="(prefers-color-scheme: light)" srcset="logo-black.svg" width="400">
-    <img src="logo-black.svg" alt="VIA Labs" width="400">
+    <source media="(prefers-color-scheme: dark)" srcset="/VIALabs-io/.github/raw/main/profile/logo-white.svg" width="400">
+    <source media="(prefers-color-scheme: light)" srcset="/VIALabs-io/.github/raw/main/profile/logo-black.svg" width="400">
+    <img src="/VIALabs-io/.github/raw/main/profile/logo-black.svg" alt="VIA Labs" width="400">
   </picture>
   
   <h1><span style="color:#FF00FF">// </span>CROSS-CHAIN COMMUNICATION</h1>
