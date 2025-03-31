@@ -1,13 +1,9 @@
 <div align="center">
-  <style>
-    .logo-dark {display: none;}
-    @media (prefers-color-scheme: dark) {
-      .logo-light {display: none;}
-      .logo-dark {display: inline-block;}
-    }
-  </style>
-  <img class="logo-light" src="logo-black.svg" alt="VIA Labs" width="400">
-  <img class="logo-dark" src="logo-white.svg" alt="VIA Labs" width="400">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-white.svg" width="400">
+    <source media="(prefers-color-scheme: light)" srcset="logo-black.svg" width="400">
+    <img src="logo-black.svg" alt="VIA Labs" width="400">
+  </picture>
   
   <h1><span style="color:#FF00FF">// </span>CROSS-CHAIN COMMUNICATION</h1>
   
